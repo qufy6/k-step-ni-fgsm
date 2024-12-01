@@ -1,4 +1,4 @@
-# The code will be open sourced later！
+# The code is open sourced NOW！
 
 # k-step-ni-fgsm
 Some improvements on ni-fgsm
